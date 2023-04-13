@@ -1,0 +1,30 @@
+# Ignore all Python-related files in the root directory
+*.pyc
+__pycache__/
+*.pyo
+
+# Ignore the virtual environment directory
+venv/
+env/
+.venv/
+.conda/
+
+# Ignore the .env file used for local environment variables
+.env
+
+# Ignore the logs directory
+logs/
+
+# Ignore the pytest cache directory
+.pytest_cache/
+
+# Ignore the coverage report directory
+htmlcov/
+
+# Ignore any local configuration files
+config.yaml
+
+# Ignore any editor-specific files
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,5 @@
+fastapi==0.95.0
+uvicorn==0.21.1
+# testing modules
+pytest==7.3.0
+httpx==0.24.0
